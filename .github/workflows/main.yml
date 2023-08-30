@@ -16,5 +16,5 @@ jobs:
       uses: SamKirkland/FTP-Deploy-Action@v4.3.4
       with:
         server: ftp.modandshy.com
-        username: shiv@modandshy.com
-        password: (h+oOp9GhJGw
+        username: skmodandshy.com
+        password: LJmcCRhs3sX(
